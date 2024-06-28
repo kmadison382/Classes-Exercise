@@ -1,0 +1,15 @@
+/Users/krystalmadison/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/krystalmadison/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/krystalmadison/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/krystalmadison/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/krystalmadison/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/krystalmadison/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
